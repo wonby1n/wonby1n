@@ -55,7 +55,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonby1n)](https://github.com/anuraghazra/github-readme-stats)
 
   ## Baekjoon Rank
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo191)](https://solved.ac/kyo181/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo181)](https://solved.ac/kyo181/)
   
   
 </div>
