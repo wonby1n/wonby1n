@@ -17,7 +17,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
+  #### :raising_hand: I am a Cloud Engineer from South Korea!<br/>
   <br/>
   <br/>
   
