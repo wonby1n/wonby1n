@@ -41,12 +41,6 @@
 | :--- | :--- | :---: |
 | 🖋️ [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) EPUB 편집 내용이 MCP 읽기 전에 반영되도록 수정 | 🟣 Merged |
 
-### 🧸 직접 만든 오픈소스
-
-| 프로젝트 | 한 줄 소개 |
-| :--- | :--- |
-| 🌊 [**Tidewatch**](https://github.com/wonby1n/Tidewatch) | Claude Code · Codex 여러 세션 중 **지금 내 차례인 작업**을 물이 차오르는 현황판으로 한눈에 |
-
 <br/>
 
 ## 🏆 Awards

@@ -41,12 +41,6 @@
 | :--- | :--- | :---: |
 | 🖋️ [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) Flush pending EPUB edits before in-app MCP reads | 🟣 Merged |
 
-### 🧸 Made by me
-
-| Project | About |
-| :--- | :--- |
-| 🌊 [**Tidewatch**](https://github.com/wonby1n/Tidewatch) | See which of your Claude Code · Codex sessions **needs you now**, on a rising-tide dashboard |
-
 <br/>
 
 ## 🏆 Awards
