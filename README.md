@@ -124,18 +124,9 @@
 
 <br/>
 
-## 📊 Stats
+## 🧩 Baekjoon
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wonby1n&show_icons=true&include_all_commits=true&hide_border=true&title_color=5B8DEF&icon_color=7FB3F5&text_color=3B5B8C&bg_color=F5FAFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonby1n&layout=compact&langs_count=8&hide_border=true&title_color=5B8DEF&text_color=3B5B8C&bg_color=F5FAFF" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=wonby1n&theme=flat&no-frame=true&column=7&margin-w=8" />
-
-<br/><br/>
 
 <a href="https://solved.ac/profile/kyo181">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo181" />
