@@ -35,12 +35,14 @@
 
 ## 🗺️ Journey
 
-| When | Where | What |
-| :--- | :--- | :--- |
-| 2026.06 – Now | 🧑‍🏫 **SSAFY Practice Coach** | Supporting 20 teams in service planning & development |
-| 2025.07 – 2026.06 | 🎓 **SSAFY 14th cohort** | Class rep & team lead, awards on all 4 team projects |
-| 2023.03 – 2025.08 | 🏫 **Pusan National University**, Graduate School of Environment | M.Eng. in Urban Planning |
-| 2019.11 – 2025.05 | 🏗️ **Real estate developer**, Housing Development Team | Market research & data analysis, investment reports, work with banks & public agencies (4.5 yrs) |
+- **2026.06 – Present** │ SSAFY Practice Coach
+  - Supporting service planning & development (20 teams so far)
+- **2025.07 – 2026.06** │ SSAFY (Samsung Software Academy For Youth), 14th cohort
+  - Class representative & team lead; awards on all 4 team projects
+- **2023.03 – 2025.08** │ Pusan National University, Graduate School of Environment — M.Eng. in Urban Planning
+- **2019.11 – 2025.05** │ Real estate developer, Housing Development Team (Associate → Assistant Manager, 4.5 yrs)
+  - Market research & data analysis, investment strategy reports
+  - Bank partnerships and public-agency relations
 
 <br/>
 
@@ -50,7 +52,7 @@
 
 | Repo | PR | Status |
 | :--- | :--- | :---: |
-| 🖋️ [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) Flush pending EPUB edits before in-app MCP reads | 🟣 Merged |
+| [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) Flush pending EPUB edits before in-app MCP reads | Merged |
 
 <br/>
 
@@ -58,10 +60,10 @@
 
 | Project | Award | About |
 | :--- | :--- | :--- |
-| 🩸 **GluCoach** | 🥇 Capstone **Grand Prize** · Finalist | AI agent coaching users with real-time glucose data |
-| 🔐 **Care** | 🏅 Specialized Project **Excellence Award** | Overseas rentals with AI identity check + blockchain smart contracts |
-| 🦸 **HearO** | 🏅 Common Project **Excellence Award** | Real-time support for call-center counselors |
-| 🍞 **Breadtopia** | 🏅 Integrated Project **Excellence Award** | Personalized bakery recommendations |
+| [**GluCoach**](https://github.com/wonby1n/GluCoach) | Capstone **Grand Prize** · Finalist | AI agent coaching users with real-time glucose data |
+| [**CARe**](https://github.com/wonby1n/CARe) | Specialized Project **Excellence Award** | Overseas rentals with AI identity check + blockchain smart contracts |
+| [**HearO**](https://github.com/wonby1n/HearO) | Common Project **Excellence Award** | Real-time support for call-center counselors |
+| [**Breadtopia**](https://github.com/wonby1n/Breadtopia) | Integrated Project **Excellence Award** | Personalized bakery recommendations |
 
 <sub>* All at SSAFY (Samsung Software Academy For Youth), 14th cohort</sub>
 
