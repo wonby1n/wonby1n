@@ -33,6 +33,17 @@
 
 <br/>
 
+## 🗺️ Journey
+
+| When | Where | What |
+| :--- | :--- | :--- |
+| 2026.06 – Now | 🧑‍🏫 **SSAFY Practice Coach** | Supporting 20 teams in service planning & development |
+| 2025.07 – 2026.06 | 🎓 **SSAFY 14th cohort** | Class rep & team lead, awards on all 4 team projects |
+| 2023.03 – 2025.08 | 🏫 **Pusan National University**, Graduate School of Environment | M.Eng. in Urban Planning |
+| 2019.11 – 2025.05 | 🏗️ **Real estate developer**, Housing Development Team | Market research & data analysis, investment reports, work with banks & public agencies (4.5 yrs) |
+
+<br/>
+
 ## 🌱 Open Source
 
 ### 💌 Contributions
