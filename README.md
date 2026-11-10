@@ -40,8 +40,6 @@
 | 레포 | PR | 상태 |
 | :--- | :--- | :---: |
 | 🖋️ [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) EPUB 편집 내용이 MCP 읽기 전에 반영되도록 수정 | 🟣 Merged |
-| ✂️ [**hyunwoongko/kss**](https://github.com/hyunwoongko/kss) <sub>⭐ 468</sub> | [#85](https://github.com/hyunwoongko/kss/pull/85) 괄호 문장 병합 시 끝 공백이 사라지는 문제 수정 | 🟢 Open |
-| 🦜 [**teddylee777/langchain-teddynote**](https://github.com/teddylee777/langchain-teddynote) <sub>⭐ 126</sub> | [#8](https://github.com/teddylee777/langchain-teddynote/pull/8) 설정한 LangSmith 엔드포인트가 유지되도록 수정 | 🟢 Open |
 
 ### 🧸 직접 만든 오픈소스
 

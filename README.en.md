@@ -40,8 +40,6 @@
 | Repo | PR | Status |
 | :--- | :--- | :---: |
 | 🖋️ [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) Flush pending EPUB edits before in-app MCP reads | 🟣 Merged |
-| ✂️ [**hyunwoongko/kss**](https://github.com/hyunwoongko/kss) <sub>⭐ 468</sub> | [#85](https://github.com/hyunwoongko/kss/pull/85) Preserve trailing whitespace when merging bracketed sentences | 🟢 Open |
-| 🦜 [**teddylee777/langchain-teddynote**](https://github.com/teddylee777/langchain-teddynote) <sub>⭐ 126</sub> | [#8](https://github.com/teddylee777/langchain-teddynote/pull/8) Preserve the configured LangSmith endpoint | 🟢 Open |
 
 ### 🧸 Made by me
 
