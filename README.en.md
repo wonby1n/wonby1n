@@ -29,7 +29,7 @@
 - 🤖 I love bringing new tech like **AI agents · blockchain** into real services
 - 🧑‍🏫 Currently a **SSAFY practice coach**, helping teams plan and build their services
 - 🏆 **Won awards on all 4 team projects** at SSAFY 14th cohort (Grand Prize in the capstone + finalist)
-- 🌱 Lately having fun **contributing to open source**!
+- 🌱 Contributing to **Kubernetes ecosystem open source** (k8sgpt · minikube · kind)
 
 <br/>
 
@@ -50,9 +50,12 @@
 
 ### 💌 Contributions
 
-| Repo | PR | Status |
-| :--- | :--- | :---: |
-| [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) Flush pending EPUB edits before in-app MCP reads | Merged |
+| Repo | PR |
+| :--- | :--- |
+| [**kubernetes-sigs/kind**](https://github.com/kubernetes-sigs/kind) | [#4298](https://github.com/kubernetes-sigs/kind/pull/4298) |
+| [**kubernetes/minikube**](https://github.com/kubernetes/minikube) | [#24075](https://github.com/kubernetes/minikube/pull/24075) · [#24065](https://github.com/kubernetes/minikube/pull/24065) |
+| [**k8sgpt-ai/k8sgpt**](https://github.com/k8sgpt-ai/k8sgpt) | [#1954](https://github.com/k8sgpt-ai/k8sgpt/pull/1954) · [#1932](https://github.com/k8sgpt-ai/k8sgpt/pull/1932) · [#1938](https://github.com/k8sgpt-ai/k8sgpt/pull/1938) · [#1937](https://github.com/k8sgpt-ai/k8sgpt/pull/1937) |
+| [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) |
 
 <br/>
 
