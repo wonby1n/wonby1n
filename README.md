@@ -29,7 +29,7 @@
 - 🤖 **AI Agent · 블록체인** 같은 새 기술을 실제 서비스에 녹여내는 걸 좋아해요
 - 🧑‍🏫 지금은 **SSAFY 실습코치**로 팀들의 서비스 기획·개발을 돕고 있어요
 - 🏆 SSAFY 14기 팀 프로젝트 **4개 모두 수상** (자율 프로젝트 최우수상 · 본선 입상)
-- 🌱 요즘은 **오픈소스 기여**에 재미 붙이는 중!
+- 🌱 요즘은 **Kubernetes 생태계 오픈소스**(k8sgpt · minikube · kind)에 기여하고 있어요
 
 <br/>
 
@@ -50,9 +50,12 @@
 
 ### 💌 기여한 프로젝트
 
-| 레포 | PR | 상태 |
-| :--- | :--- | :---: |
-| [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | [#204](https://github.com/pblsketch/ieumoffice/pull/204) EPUB 편집 내용이 MCP 읽기 전에 반영되도록 수정 | Merged |
+| 레포 | 한 줄 | PR |
+| :--- | :--- | :--- |
+| [**kubernetes-sigs/kind**](https://github.com/kubernetes-sigs/kind) | 도커 기반 로컬 쿠버네티스 | [#4298](https://github.com/kubernetes-sigs/kind/pull/4298) |
+| [**kubernetes/minikube**](https://github.com/kubernetes/minikube) | 로컬 쿠버네티스 클러스터 | [#24075](https://github.com/kubernetes/minikube/pull/24075) · [#24065](https://github.com/kubernetes/minikube/pull/24065) |
+| [**k8sgpt-ai/k8sgpt**](https://github.com/k8sgpt-ai/k8sgpt) | AI 쿠버네티스 진단 도구 (CNCF) | [#1954](https://github.com/k8sgpt-ai/k8sgpt/pull/1954) · [#1932](https://github.com/k8sgpt-ai/k8sgpt/pull/1932) · [#1938](https://github.com/k8sgpt-ai/k8sgpt/pull/1938) · [#1937](https://github.com/k8sgpt-ai/k8sgpt/pull/1937) |
+| [**pblsketch/ieumoffice**](https://github.com/pblsketch/ieumoffice) | 교육용 오피스 · MCP | [#204](https://github.com/pblsketch/ieumoffice/pull/204) |
 
 <br/>
 
